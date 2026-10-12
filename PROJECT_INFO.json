@@ -1,0 +1,13 @@
+{
+  "project_name": "CreditLens - Credit Risk Modeling",
+  "language": "Python",
+  "dashboard": "Streamlit",
+  "models": [
+    "Logistic Regression",
+    "Decision Tree",
+    "Random Forest"
+  ],
+  "imbalance_method": "SMOTE on training split only",
+  "explainability": "Feature importance, local approximations, optional SHAP script",
+  "dataset": "Synthetic educational dataset, not real lending data"
+}
